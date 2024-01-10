@@ -1,7 +1,7 @@
 import React from 'react';
 import "./Signup.css";
 import { useState } from 'react';
-import { signupFetch, testFetch } from '../../utils/fetch';
+import { signupFetch } from '../../utils/fetch';
 
 const Signup = () => {
 
